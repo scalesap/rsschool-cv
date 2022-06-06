@@ -1,28 +1,32 @@
-Julia Korolionock
+# Julia Korolionock
 
-Contact: julia_korolenok@mail.ru
+**CONTACT**: julia_korolenok@mail.ru
 
-Skills: 
+**SKILLS:**
 Python, SQL, HTML, Fiddler, VSCode, Android SDK, Git
 
-Education:
+**EDUCATION:**
 
-BELARUSIAN STATE UNIVERSITY OF PHYSICAL CULTURE (2017-2021)
+***Belarusian State Univercity of Physical Culture*** (2017-2021)
+
+
 Qualification: specialist of tourism.
 
-MINSK COLLEGE OF BUSINESS (2014-2017)
+***Minsk College of Business*** (2014-2017)
+
+
 Qualification: touragent-guide.
 
 
-Experience: 
+**EXPERIENCE:**
 
-YANDEX
-February 2022 – up to the present
+***YANDEX*** (February 2022 – up to the present)
+
 Assessor-tester:
 -   Android/iOS Mobile Application Testing 
 -   Game testing experience
 -   Web Application Testing
 
-Languages:
+**LANGUAGES:**
 
 English, Russian, Belarusian
