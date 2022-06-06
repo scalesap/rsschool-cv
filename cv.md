@@ -20,7 +20,7 @@ Qualification: touragent-guide.
 
 **EXPERIENCE:**
 
-***YANDEX*** (February 2022 – up to the present)
+***Yandex*** (February 2022 – up to the present)
 
 Assessor-tester:
 -   Android/iOS Mobile Application Testing 
