@@ -7,12 +7,12 @@ Python, SQL, HTML, Fiddler, VSCode, Android SDK, Git
 
 **EDUCATION:**
 
-***Belarusian State Univercity of Physical Culture*** (2017-2021)
+***Belarusian State Univercity of Physical Culture***
 
 
 Qualification: specialist of tourism.
 
-***Minsk College of Business*** (2014-2017)
+***Minsk College of Business***
 
 
 Qualification: touragent-guide.
@@ -20,7 +20,7 @@ Qualification: touragent-guide.
 
 **EXPERIENCE:**
 
-***Yandex*** (February 2022 – up to the present)
+***Yandex*** (up to the present)
 
 Assessor-tester:
 -   Android/iOS Mobile Application Testing 
